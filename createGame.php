@@ -51,7 +51,7 @@ error_reporting(E_ALL);
 
                 <div class="span10 offset1">
                     <div class="row">
-                        <h3>Create a Customer</h3>
+                        <h3>Create a Game</h3>
                     </div>
 
                     <form class="form-horizontal" action="createGame.php" method="post">
