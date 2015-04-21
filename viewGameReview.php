@@ -10,7 +10,7 @@ ini_set('display_errors',1);
 error_reporting(E_ALL);
  
     require 'database.php';
-	require 'reqLogin.php';
+    
     //Get review tuid
     if ( !empty($_GET['id'])) {
        $id = $_REQUEST['id'];
